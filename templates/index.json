@@ -267,6 +267,46 @@
         "vertical_spacing_factor": 1,
         "subheading": "AFFRETTATI!"
       }
+    },
+    "faq_JW9eFi": {
+      "type": "faq",
+      "blocks": {
+        "question_FkRPyH": {
+          "type": "question",
+          "settings": {
+            "question": "Do you ship overseas?",
+            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "question_zdDrdJ": {
+          "type": "question",
+          "settings": {
+            "question": "How long will it take to get my orders?",
+            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "question_VViGjd": {
+          "type": "question",
+          "settings": {
+            "question": "Any question?",
+            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_FkRPyH",
+        "question_zdDrdJ",
+        "question_VViGjd"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "show_categories": false,
+        "subheading": "Hai bisogno di aiuto?",
+        "title": "Domande frequenti",
+        "content": ""
+      }
     }
   },
   "order": [
@@ -275,6 +315,7 @@
     "image_with_text_EXzcAk",
     "collection_list_K9axBH",
     "shop_the_look_4xnxXk",
-    "featured_collections_inUyKi"
+    "featured_collections_inUyKi",
+    "faq_JW9eFi"
   ]
 }
