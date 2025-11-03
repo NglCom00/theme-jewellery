@@ -230,12 +230,12 @@
       ],
       "name": "t:sections.shop_the_look.presets.shop_the_look.name",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "separate_section_with_border": true,
         "subheading": "",
-        "title": "Shop the look",
+        "title": "Il nostro look preferito",
         "content": "",
-        "popover_title": "Shop the look"
+        "popover_title": "LOOK NOVEMBRE 2025"
       }
     }
   },
