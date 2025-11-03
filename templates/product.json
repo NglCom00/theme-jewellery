@@ -207,46 +207,49 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "collezione-collana-oro-18k",
+            "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-11-03T130846.521.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
+            "subheading": "Collezione oro",
+            "title": "Collana 18k",
+            "button_text": "Scoprili ora",
+            "button_link": "shopify://collections/collezione-collana-oro-18k",
+            "button_style": "outline",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 6
           }
         },
         "collection_A94eke": {
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "collezione-orecchini-oro-18k",
+            "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-11-03T130456.432.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
+            "subheading": "Collezione Oro",
+            "title": "Orecchini 18k",
+            "button_text": "scoprili ora",
+            "button_link": "shopify://collections/collezione-orecchini-oro-18k",
+            "button_style": "outline",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 6
           }
         },
         "collection_AUXhGX": {
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "collezione-bracciale-oro-18k",
+            "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-11-03T132910.073.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
+            "subheading": "Collezione oro",
+            "title": "Bracciale 18k",
+            "button_text": "scoprili ora",
+            "button_link": "shopify://collections/collezione-bracciale-oro-18k",
+            "button_style": "outline",
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
