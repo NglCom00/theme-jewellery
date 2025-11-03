@@ -46,13 +46,13 @@
       ],
       "disabled": true,
       "settings": {
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "show_next_section_button": true,
         "media_size": "fill",
         "show_initial_transition": true,
         "autoplay": true,
         "autoplay_pause_on_video": true,
-        "cycle_speed": 5,
+        "cycle_speed": 19,
         "background": "#000000",
         "controls_color": "#ffffff"
       }
