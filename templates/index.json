@@ -259,9 +259,9 @@
             "content_position": "place-self-end-start text-start",
             "subheading": "collezione oro",
             "title": "Bracciale 18k",
-            "button_text": "View products",
+            "button_text": "Scoprili ora",
             "button_link": "",
-            "button_style": "solid",
+            "button_style": "outline",
             "overlay_color": "#000000",
             "overlay_opacity": 6
           }
