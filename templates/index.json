@@ -67,7 +67,7 @@
             "mobile_image": "shopify://shop_images/Progetto_senza_titolo_-_2025-11-03T195930.980.png",
             "subheading": "Imperia gioielli apre le porte",
             "title": "La stagione dei regali",
-            "mobile_text_position": "place-self-center text-center",
+            "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "i nostri gioielli",
