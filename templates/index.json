@@ -44,7 +44,6 @@
       "block_order": [
         "video_L46dtf"
       ],
-      "disabled": true,
       "settings": {
         "allow_transparent_header": false,
         "show_next_section_button": true,
@@ -91,6 +90,7 @@
       "block_order": [
         "image_pkHx8Y"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.slideshow.name",
       "settings": {
         "allow_transparent_header": false,
