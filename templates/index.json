@@ -134,43 +134,6 @@
         "subheading": ""
       }
     },
-    "scrolling_content_PHQbAx": {
-      "type": "scrolling-content",
-      "blocks": {
-        "text_GdWdzJ": {
-          "type": "text",
-          "settings": {
-            "text": "GIOIELLI MADE IN ITALY"
-          }
-        },
-        "image_XkpVrN": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/LOGO_IMPERIA_9.png"
-          }
-        }
-      },
-      "block_order": [
-        "text_GdWdzJ",
-        "image_XkpVrN"
-      ],
-      "name": "t:sections.scrolling_content.presets.scrolling_content.name",
-      "settings": {
-        "separate_section_with_border": false,
-        "scrolling_speed": 0.3,
-        "scroll_direction": "left",
-        "pause_on_hover": false,
-        "text_font": "body",
-        "text_font_size_mobile": 32,
-        "text_font_size_desktop": 74,
-        "section_vertical_spacing_mobile": 34,
-        "section_vertical_spacing_desktop": 80,
-        "item_horizontal_spacing_mobile": 50,
-        "item_horizontal_spacing_desktop": 120,
-        "background": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_EXzcAk": {
       "type": "image-with-text",
       "blocks": {
@@ -460,7 +423,6 @@
     "slideshow",
     "slideshow_yVyhjb",
     "featured_collections_7Mziez",
-    "scrolling_content_PHQbAx",
     "image_with_text_EXzcAk",
     "rich_text_R47nXj",
     "collection_list_K9axBH",
