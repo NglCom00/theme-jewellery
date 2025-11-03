@@ -12,7 +12,7 @@
     "section_vertical_spacing": "md",
     "default_color_scheme": "scheme-2",
     "product_rating_color": "#1c1c1c",
-    "product_on_sale_accent": "#e32c2b",
+    "product_on_sale_accent": "#f3d9d5",
     "product_sold_out_badge_background": "#efefef",
     "product_custom_badge_background": "#1c1c1c",
     "success_color": "#307a07",
@@ -277,7 +277,7 @@
   "platform_customizations": {
     "custom_css": [
       ".tap-area {display: none !important;}",
-      ".text-on-sale {font-size: 18px !important; /* aumenta la dimensione del testo */ font-weight: 600; /* rende il testo più deciso */ color: #DBA8A0 !important; /* cambia il colore (oro elegante) */ letter-spacing: 0.5px; /* leggero spazio tra le lettere */}"
+      ".text-on-sale {font-size: 18px !important; /* aumenta la dimensione del testo */ font-weight: 600; /* rende il testo più deciso */ color: #dba8a0 !important; /* cambia il colore (oro elegante) */ letter-spacing: 0.5px; /* leggero spazio tra le lettere */}"
     ]
   }
 }
