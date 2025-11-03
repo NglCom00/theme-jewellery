@@ -44,6 +44,7 @@
       "block_order": [
         "video_L46dtf"
       ],
+      "disabled": true,
       "settings": {
         "allow_transparent_header": false,
         "show_next_section_button": true,
@@ -62,14 +63,14 @@
         "image_pkHx8Y": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-11-03T181515.414.png",
-            "mobile_image": "shopify://shop_images/Progetto_senza_titolo_-_2025-11-03T181515.414.png",
+            "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-11-03T195105.878.png",
+            "mobile_image": "shopify://shop_images/Progetto_senza_titolo_-_2025-11-03T195105.878.png",
             "subheading": "Imperia gioielli apre le porte",
-            "title": "Alta gioielleria toscana",
+            "title": "La stagione dei regali",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
-            "button_1_text": "I NOSTRI GIOIELLI",
+            "button_1_text": "i nostri gioielli",
             "button_1_link": "shopify://collections/tutti-i-nostri-gioielli",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
@@ -83,14 +84,13 @@
             "background_opacity": 57,
             "text_color": "#ffffff",
             "border_color": "",
-            "gradient_overlay": "linear-gradient(209deg, rgba(54, 54, 54, 0), rgba(4, 4, 4, 0.65) 100%)"
+            "gradient_overlay": "linear-gradient(46deg, rgba(54, 54, 54, 0), rgba(54, 54, 54, 0) 23%, rgba(54, 54, 54, 0) 35%, rgba(4, 4, 4, 0.65) 100%)"
           }
         }
       },
       "block_order": [
         "image_pkHx8Y"
       ],
-      "disabled": true,
       "name": "t:sections.slideshow.presets.slideshow.name",
       "settings": {
         "allow_transparent_header": false,
