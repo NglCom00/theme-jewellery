@@ -115,15 +115,6 @@
     "tabs_qmMPwV": {
       "type": "tabs",
       "blocks": {
-        "tab_xJEt4x": {
-          "type": "tab",
-          "settings": {
-            "title": "Specifiche tecniche",
-            "content": "<p>cccc</p>",
-            "page": "",
-            "open_on_mobile": false
-          }
-        },
         "tab_D8EAzt": {
           "type": "tab",
           "settings": {
@@ -144,7 +135,6 @@
         }
       },
       "block_order": [
-        "tab_xJEt4x",
         "tab_D8EAzt",
         "tab_Hdfjk7"
       ],
