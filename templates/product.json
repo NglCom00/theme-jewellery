@@ -12,12 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "liquid_JiXNkd": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"custom-best-price\">\n  MIGLIOR PREZZO\n</div>\n\n<style>\n  .custom-best-price {\n    display: inline-block;\n    background-color: #C55B6B; /* colore rosa del bottone */\n    color: #ffffff; /* testo bianco */\n    font-family: 'Montserrat', sans-serif;\n    font-weight: 500;\n    font-size: 12px;\n    letter-spacing: 1px;\n    text-transform: uppercase;\n    padding: 10px;\n    border-radius: 8px;\n    text-align: center;\n    cursor: default;\n    transition: all 0.25s ease;\n  }\n\n  .custom-best-price:hover {\n    background-color: #b04e5d; /* leggera variazione in hover */\n    transform: translateY(-1px);\n  }\n\n  /* Responsive */\n  @media (max-width: 768px) {\n    .custom-best-price {\n      font-size: 13px;\n      padding: 8px 22px;\n    }\n  }\n</style>"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -67,28 +61,16 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "complementary_products": {
-          "type": "complementary_products",
-          "settings": {
-            "title": "Pairs well with",
-            "products_count": 2,
-            "show_below_gallery": true,
-            "stack_products": false,
-            "show_quick_buy": true
-          }
         }
       },
       "block_order": [
-        "liquid_JiXNkd",
         "title",
         "price",
         "payment_terms",
         "description",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
-        "complementary_products"
+        "buy_buttons"
       ],
       "settings": {
         "color_scheme": "scheme-2",
