@@ -14,6 +14,16 @@
     "text_with_icons_37FzUD": {
       "type": "text-with-icons",
       "blocks": {
+        "item_GQHGJQ": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-shield",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Gioielli made in italy",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        },
         "item_z4nnNP": {
           "type": "item",
           "settings": {
@@ -30,25 +40,15 @@
             "icon": "picto-customer-support",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "Customer service",
+            "title": "REso gratuito entro 15 giorni",
             "content": "<p>We are available from monday to friday to answer your questions.</p>"
-          }
-        },
-        "item_GQHGJQ": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-shield",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Secure payment",
-            "content": "<p>Your payment information is processed securely.</p>"
           }
         }
       },
       "block_order": [
+        "item_GQHGJQ",
         "item_z4nnNP",
-        "item_i8mwbx",
-        "item_GQHGJQ"
+        "item_i8mwbx"
       ],
       "name": "t:sections.text_with_icons.presets.text_with_icons.name",
       "settings": {

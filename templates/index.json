@@ -360,29 +360,53 @@
         "question_FkRPyH": {
           "type": "question",
           "settings": {
-            "question": "Do you ship overseas?",
+            "question": "I vostri gioielli sono in oro 18 carati?",
             "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "question_qYNN6W": {
+          "type": "question",
+          "settings": {
+            "question": "Sono realmente made in italy?",
+            "answer": "<p>Write a clear and concise answer to guide your customers.</p>"
           }
         },
         "question_zdDrdJ": {
           "type": "question",
           "settings": {
-            "question": "How long will it take to get my orders?",
+            "question": "La spedizione è gratuita?",
             "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
           }
         },
         "question_VViGjd": {
           "type": "question",
           "settings": {
-            "question": "Any question?",
+            "question": "In quanto tempo riceverò l'ordine?",
             "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "question_epgKnX": {
+          "type": "question",
+          "settings": {
+            "question": "Se il prodotto non è di mio gradimento, posso fare il reso?",
+            "answer": "<p>Write a clear and concise answer to guide your customers.</p>"
+          }
+        },
+        "question_Haw36F": {
+          "type": "question",
+          "settings": {
+            "question": "Esiste un'assistenza con cui poter parlare?",
+            "answer": "<p>Write a clear and concise answer to guide your customers.</p>"
           }
         }
       },
       "block_order": [
         "question_FkRPyH",
+        "question_qYNN6W",
         "question_zdDrdJ",
-        "question_VViGjd"
+        "question_VViGjd",
+        "question_epgKnX",
+        "question_Haw36F"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
