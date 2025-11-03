@@ -85,10 +85,125 @@
         "vertical_spacing_factor": 1,
         "subheading": ""
       }
+    },
+    "image_with_text_EXzcAk": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_T3Ce4i": {
+          "type": "subheading",
+          "settings": {
+            "text": "Nel cuore della toscana"
+          }
+        },
+        "heading_kATJhe": {
+          "type": "heading",
+          "settings": {
+            "text": "nasce l'alta gioielleria",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_Bkrmez": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_T3Ce4i",
+        "heading_kATJhe",
+        "richtext_Bkrmez"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-11-03T125631.248.png",
+        "mobile_image": "shopify://shop_images/Progetto_senza_titolo_-_2025-11-03T125631.248.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "collection_list_K9axBH": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_9HkxUR": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_RwAFx9": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_H8a3Be": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_9HkxUR",
+        "collection_RwAFx9",
+        "collection_H8a3Be"
+      ],
+      "name": "t:sections.collection_list.presets.collection_list.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "show_text_outside": false,
+        "space_items": false,
+        "stack_collections": true,
+        "collections_per_row_desktop": 3,
+        "stack_collections_mobile": true,
+        "collections_per_row_mobile": "1",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
     }
   },
   "order": [
     "slideshow",
-    "featured_collections_7Mziez"
+    "featured_collections_7Mziez",
+    "image_with_text_EXzcAk",
+    "collection_list_K9axBH"
   ]
 }
