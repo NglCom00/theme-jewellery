@@ -70,17 +70,17 @@
             "payment_button_text_color": ""
           }
         },
-        "liquid_6BwBBh": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"info-box\">\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/985/985696.png\" alt=\"Spedizione\" class=\"info-icon\">\n    <p><strong>Spedizione gratuita</strong> in 24/48h in tutta Italia</p>\n  </div>\n  <hr>\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/102/102649.png\" alt=\"Oro 18k\" class=\"info-icon\">\n    <p>Tutti i gioielli nel sito sono in <strong>oro 18 carati</strong> realizzati in <strong>Toscana</strong></p>\n  </div>\n  <hr>\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/3064/3064197.png\" alt=\"Pagamenti sicuri\" class=\"info-icon\">\n    <p><strong>Pagamenti sicuri</strong></p>\n  </div>\n  <hr>\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/8782/8782959.png\" alt=\"Reso gratuito\" class=\"info-icon\">\n    <p><strong>Reso gratuito entro 15 giorni.</strong><br>\n    <span class=\"note\">Attenzione:</span> non è possibile effettuare il reso per articoli personalizzati o modificati secondo indicazioni del cliente, poiché realizzati su misura.</p>\n  </div>\n</div>\n\n<style>\n.info-box {\n  border: 1px solid #000;\n  padding: 20px;\n  max-width: 500px;\n  margin: 0 auto;\n  background-color: #fff;\n  font-family: 'Montserrat', sans-serif;\n  font-size: 14px;\n  line-height: 1.6;\n  color: #111;\n}\n\n.info-item {\n  display: flex;\n  align-items: flex-start;\n  gap: 12px;\n}\n\n.info-icon {\n  width: 28px;\n  height: 28px;\n  flex-shrink: 0;\n  margin-top: 4px;\n  filter: brightness(0) saturate(100%); /* mantiene tutte le icone nere */\n}\n\n.info-box hr {\n  border: none;\n  border-top: 1px solid #000;\n  margin: 16px 0;\n}\n\n.note {\n  font-weight: 600;\n}\n\n@media (max-width: 768px) {\n  .info-box {\n    padding: 15px;\n  }\n  .info-item {\n    align-items: center;\n  }\n  .info-icon {\n    width: 24px;\n    height: 24px;\n  }\n  .info-box p {\n    font-size: 13px;\n  }\n}\n</style>"
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
             "collapse_content": true,
             "show_below_gallery": false
+          }
+        },
+        "liquid_6BwBBh": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"info-box\">\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/985/985696.png\" alt=\"Spedizione\" class=\"info-icon\">\n    <p><strong>Spedizione gratuita</strong> in 24/48h in tutta Italia</p>\n  </div>\n  <hr>\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/102/102649.png\" alt=\"Oro 18k\" class=\"info-icon\">\n    <p>Tutti i gioielli nel sito sono in <strong>oro 18 carati</strong> realizzati in <strong>Toscana</strong></p>\n  </div>\n  <hr>\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/3064/3064197.png\" alt=\"Pagamenti sicuri\" class=\"info-icon\">\n    <p><strong>Pagamenti sicuri</strong></p>\n  </div>\n  <hr>\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/8782/8782959.png\" alt=\"Reso gratuito\" class=\"info-icon\">\n    <p><strong>Reso gratuito entro 15 giorni.</strong><br>\n    <span class=\"note\">Attenzione:</span> non è possibile effettuare il reso per articoli personalizzati o modificati secondo indicazioni del cliente, poiché realizzati su misura.</p>\n  </div>\n</div>\n\n<style>\n.info-box {\n  border: 1px solid #000;\n  padding: 20px;\n  max-width: 500px;\n  margin: 0 auto;\n  background-color: #fff;\n  font-family: 'Montserrat', sans-serif;\n  font-size: 14px;\n  line-height: 1.6;\n  color: #111;\n}\n\n.info-item {\n  display: flex;\n  align-items: flex-start;\n  gap: 12px;\n}\n\n.info-icon {\n  width: 28px;\n  height: 28px;\n  flex-shrink: 0;\n  margin-top: 4px;\n  filter: brightness(0) saturate(100%); /* mantiene tutte le icone nere */\n}\n\n.info-box hr {\n  border: none;\n  border-top: 1px solid #000;\n  margin: 16px 0;\n}\n\n.note {\n  font-weight: 600;\n}\n\n@media (max-width: 768px) {\n  .info-box {\n    padding: 15px;\n  }\n  .info-item {\n    align-items: center;\n  }\n  .info-icon {\n    width: 24px;\n    height: 24px;\n  }\n  .info-box p {\n    font-size: 13px;\n  }\n}\n</style>"
           }
         }
       },
@@ -94,8 +94,8 @@
         "quantity_selector",
         "liquid_rE9aXd",
         "buy_buttons",
-        "liquid_6BwBBh",
-        "description"
+        "description",
+        "liquid_6BwBBh"
       ],
       "settings": {
         "color_scheme": "scheme-2",
