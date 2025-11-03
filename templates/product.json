@@ -51,6 +51,12 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "liquid_rE9aXd": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"stock-widget\">\n  <div class=\"stock-header\">Disponibilità</div>\n  <div class=\"stock-status\">In magazzino, pronto per la spedizione</div>\n\n  <div class=\"stock-bar\">\n    <div class=\"stock-bar__fill\"></div>\n  </div>\n</div>\n\n<style>\n/* --------- Configurazione rapida --------- */\n.stock-widget { --green:#2e7d32; --bar-bg:#f0f0f0; --fill:5%; }\n/* ----------------------------------------- */\n\n.stock-widget{\n  max-width: 640px;\n  margin: 10px 0 20px;\n  font-family: inherit;\n}\n.stock-header{\n  font-size: 18px;\n  font-weight: 600;\n  color: #111;\n  margin-bottom: 6px;\n}\n.stock-status{\n  font-size: 16px;\n  font-weight: 500;\n  color: var(--green);\n  margin-bottom: 10px;\n}\n.stock-bar{\n  width: 100%;\n  height: 6px;                 /* sottile come nello screen */\n  background: var(--bar-bg);   /* grigio chiaro */\n  border-radius: 2px;\n  overflow: hidden;\n  position: relative;\n}\n.stock-bar__fill{\n  width: var(--fill);          /* ~5% fissa */\n  min-width: 22px;             /* garantisce un piccolo “blocco” visibile */\n  height: 100%;\n  background: var(--green);\n  border-radius: 2px;\n}\n@media (max-width: 768px){\n  .stock-header{ font-size:16px; }\n  .stock-status{ font-size:14px; }\n}\n</style>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -76,6 +82,7 @@
         "description",
         "variant_picker",
         "quantity_selector",
+        "liquid_rE9aXd",
         "buy_buttons",
         "liquid_6BwBBh"
       ],
