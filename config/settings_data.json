@@ -265,7 +265,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".tap-area {display: none !important;}"
+      ".tap-area {display: none !important;}",
+      ".text-on-sale {font-size: 18px !important; /* aumenta la dimensione del testo */ font-weight: 600; /* rende il testo più deciso */ color: #e32c2b !important; /* cambia il colore (oro elegante) */ letter-spacing: 0.5px; /* leggero spazio tra le lettere */}"
     ]
   }
 }
