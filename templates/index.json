@@ -151,15 +151,16 @@
           "settings": {
             "color_scheme": "",
             "collection": "",
+            "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-11-03T130846.521.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
+            "subheading": "Collezione",
+            "title": "Collana 18k",
+            "button_text": "Scoprili ora",
             "button_link": "",
-            "button_style": "solid",
+            "button_style": "outline",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 6
           }
         },
         "collection_H8a3Be": {
