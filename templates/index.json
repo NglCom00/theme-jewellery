@@ -237,6 +237,36 @@
         "content": "",
         "popover_title": "LOOK NOVEMBRE 2025"
       }
+    },
+    "featured_collections_inUyKi": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_3drmMt": {
+          "type": "collection",
+          "settings": {
+            "collection": "ultimi-pezzi-rimasti",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_3drmMt"
+      ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "AFFRETTATI!"
+      }
     }
   },
   "order": [
@@ -244,6 +274,7 @@
     "featured_collections_7Mziez",
     "image_with_text_EXzcAk",
     "collection_list_K9axBH",
-    "shop_the_look_4xnxXk"
+    "shop_the_look_4xnxXk",
+    "featured_collections_inUyKi"
   ]
 }
