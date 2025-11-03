@@ -201,12 +201,49 @@
         "title": "",
         "content": ""
       }
+    },
+    "shop_the_look_4xnxXk": {
+      "type": "shop-the-look",
+      "blocks": {
+        "look_VxjyzN": {
+          "type": "look",
+          "settings": {
+            "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-11-03T133214.483.png",
+            "hot_spots_background": "#ffffff",
+            "product_1": "orecchino-quadrifoglio-madreperla-oro-18k",
+            "product_1_horizontal_position": 33,
+            "product_1_vertical_position": 16,
+            "product_2": "collana-quadrifoglio-madreperla-oro-18k",
+            "product_2_horizontal_position": 63,
+            "product_2_vertical_position": 62,
+            "product_3": "",
+            "product_3_horizontal_position": 60,
+            "product_3_vertical_position": 65,
+            "product_4": "",
+            "product_4_horizontal_position": 85,
+            "product_4_vertical_position": 85
+          }
+        }
+      },
+      "block_order": [
+        "look_VxjyzN"
+      ],
+      "name": "t:sections.shop_the_look.presets.shop_the_look.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Shop the look",
+        "content": "",
+        "popover_title": "Shop the look"
+      }
     }
   },
   "order": [
     "slideshow",
     "featured_collections_7Mziez",
     "image_with_text_EXzcAk",
-    "collection_list_K9axBH"
+    "collection_list_K9axBH",
+    "shop_the_look_4xnxXk"
   ]
 }
