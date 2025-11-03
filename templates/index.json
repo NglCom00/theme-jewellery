@@ -15,9 +15,11 @@
         "video_L46dtf": {
           "type": "video",
           "settings": {
-            "allow_sound": true,
-            "subheading": "Tell your story",
-            "title": "Video slide",
+            "video": "shopify://files/videos/video banner.MOV",
+            "mobile_video": "shopify://files/videos/video banner.MOV",
+            "allow_sound": false,
+            "subheading": "Imperia gioielli apre le porte",
+            "title": "Alta gioielleria toscana",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
