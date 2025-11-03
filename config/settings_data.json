@@ -90,7 +90,7 @@
       },
       "scheme-945f6341-340a-4fdb-a4b9-f352d8fb7455": {
         "settings": {
-          "background": "#f7cbc4",
+          "background": "#dba8a0",
           "background_gradient": "",
           "text_color": "#1c1c1c",
           "primary_button_background": "#1c1c1c",
@@ -277,7 +277,7 @@
   "platform_customizations": {
     "custom_css": [
       ".tap-area {display: none !important;}",
-      ".text-on-sale {font-size: 18px !important; /* aumenta la dimensione del testo */ font-weight: 600; /* rende il testo più deciso */ color: #000 !important; /* cambia il colore (oro elegante) */ letter-spacing: 0.5px; /* leggero spazio tra le lettere */}"
+      ".text-on-sale {font-size: 18px !important; /* aumenta la dimensione del testo */ font-weight: 600; /* rende il testo più deciso */ color: #DBA8A0 !important; /* cambia il colore (oro elegante) */ letter-spacing: 0.5px; /* leggero spazio tra le lettere */}"
     ]
   }
 }
