@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_3gbcDt": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"live-view-widget\">\n  <span class=\"red-dot\"></span>\n  <span class=\"live-text\"><span id=\"viewers-count\">7</span> persone stanno guardando questo prodotto</span>\n</div>\n\n<style>\n  .live-view-widget {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n    font-family: 'Montserrat', sans-serif;\n    font-size: 15px;\n    color: #333;\n    margin-top: 10px;\n  }\n\n  .red-dot {\n    width: 10px;\n    height: 10px;\n    background-color: red;\n    border-radius: 50%;\n    animation: blink 1s infinite;\n  }\n\n  @keyframes blink {\n    0%, 50%, 100% { opacity: 1; }\n    25%, 75% { opacity: 0; }\n  }\n\n  .live-text {\n    font-weight: 500;\n  }\n</style>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function() {\n    const countEl = document.getElementById(\"viewers-count\");\n    function updateCount() {\n      const randomNum = Math.floor(Math.random() * 9) + 2; // da 2 a 10\n      countEl.textContent = randomNum;\n    }\n    setInterval(updateCount, 5000); // cambia ogni 5 secondi\n  });\n</script>"
+          }
+        },
         "vendor_8yfCPQ": {
           "type": "vendor",
           "settings": {}
@@ -85,6 +91,7 @@
         }
       },
       "block_order": [
+        "liquid_3gbcDt",
         "vendor_8yfCPQ",
         "title",
         "price",
