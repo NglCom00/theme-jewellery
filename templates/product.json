@@ -113,7 +113,7 @@
         "tab_xJEt4x": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
+            "title": "Specifiche tecniche",
             "content": "<p>Use this text to share information about your brand with your customers.</p>",
             "page": "",
             "open_on_mobile": false
@@ -122,7 +122,7 @@
         "tab_D8EAzt": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
+            "title": "Spedizione e consegna",
             "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
             "page": "",
             "open_on_mobile": false
@@ -131,7 +131,7 @@
         "tab_Hdfjk7": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
+            "title": "Reso",
             "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
             "page": "",
             "open_on_mobile": false
