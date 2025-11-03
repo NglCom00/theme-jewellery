@@ -56,7 +56,13 @@
         "liquid_rE9aXd": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"stock-widget\">\n  <div class=\"stock-header\">Disponibilità</div>\n  <div class=\"stock-status\">In magazzino, pronto per la spedizione</div>\n\n  <div class=\"stock-bar\">\n    <div class=\"stock-bar__fill\"></div>\n  </div>\n</div>\n\n<style>\n/* --------- Configurazione rapida --------- */\n.stock-widget { --green:#2e7d32; --bar-bg:#f0f0f0; --fill:5%; }\n/* ----------------------------------------- */\n\n.stock-widget{\n  max-width: 640px;\n  margin: 10px 0 20px;\n  font-family: inherit;\n}\n.stock-header{\n  font-size: 18px;\n  font-weight: 600;\n  color: #111;\n  margin-bottom: 6px;\n}\n.stock-status{\n  font-size: 16px;\n  font-weight: 500;\n  color: var(--green);\n  margin-bottom: 10px;\n}\n.stock-bar{\n  width: 100%;\n  height: 6px;                 /* sottile come nello screen */\n  background: var(--bar-bg);   /* grigio chiaro */\n  border-radius: 2px;\n  overflow: hidden;\n  position: relative;\n}\n.stock-bar__fill{\n  width: var(--fill);          /* ~5% fissa */\n  min-width: 22px;             /* garantisce un piccolo “blocco” visibile */\n  height: 100%;\n  background: var(--green);\n  border-radius: 2px;\n}\n@media (max-width: 768px){\n  .stock-header{ font-size:16px; }\n  .stock-status{ font-size:14px; }\n}\n</style>"
+            "liquid": "<div class=\"stock-widget\">\n  <div class=\"stock-header\">Disponibilità</div>\n  <div class=\"stock-status\">Ne è rimasto solo 1 . Ordina presto!</div>\n\n  <div class=\"stock-bar\">\n    <div class=\"stock-bar__fill\"></div>\n  </div>\n</div>\n\n<style>\n/* --------- Configurazione rapida --------- */\n.stock-widget { --green:#A67A06; --bar-bg:#f0f0f0; --fill:5%; }\n/* ----------------------------------------- */\n\n.stock-widget{\n  max-width: 640px;\n  margin: 10px 0 20px;\n  font-family: inherit;\n}\n.stock-header{\n  font-size: 18px;\n  font-weight: 600;\n  color: #111;\n  margin-bottom: 6px;\n}\n.stock-status{\n  font-size: 16px;\n  font-weight: 500;\n  color: var(--green);\n  margin-bottom: 10px;\n}\n.stock-bar{\n  width: 100%;\n  height: 6px;                 /* sottile come nello screen */\n  background: var(--bar-bg);   /* grigio chiaro */\n  border-radius: 2px;\n  overflow: hidden;\n  position: relative;\n}\n.stock-bar__fill{\n  width: var(--fill);          /* ~5% fissa */\n  min-width: 22px;             /* garantisce un piccolo “blocco” visibile */\n  height: 100%;\n  background: var(--green);\n  border-radius: 2px;\n}\n@media (max-width: 768px){\n  .stock-header{ font-size:16px; }\n  .stock-status{ font-size:14px; }\n}\n</style>"
+          }
+        },
+        "liquid_ckLC78": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"live-view-widget\">\n  <span class=\"red-dot\"></span>\n  <span class=\"live-text\"><span id=\"viewers-count\">7</span> persone stanno guardando questo prodotto</span>\n</div>\n\n<style>\n  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');\n\n  .live-view-widget {\n    display: flex;\n    align-items: center;\n    gap: 6px;\n    font-family: 'Poppins', sans-serif;\n    font-weight: 500;\n    font-size: 11px;\n    color: #D30000;\n    margin-top: 6px;\n    margin-bottom: -10px;\n  }\n\n  .red-dot {\n    width: 8px;\n    height: 8px;\n    background-color: #D30000;\n    border-radius: 50%;\n  }\n\n  .live-text {\n    line-height: 1;\n  }\n</style>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function() {\n    const countEl = document.getElementById(\"viewers-count\");\n    function updateCount() {\n      const randomNum = Math.floor(Math.random() * 9) + 2; // da 2 a 10\n      countEl.textContent = randomNum;\n    }\n    setInterval(updateCount, 30000); // cambia ogni 30 secondi\n  });\n</script>"
           }
         },
         "buy_buttons": {
@@ -93,6 +99,7 @@
         "liquid_KnNdWq",
         "quantity_selector",
         "liquid_rE9aXd",
+        "liquid_ckLC78",
         "buy_buttons",
         "description",
         "liquid_6BwBBh"
