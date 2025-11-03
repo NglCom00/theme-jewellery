@@ -63,6 +63,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "About",
+            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "enable_follow_on_shop": true
+          }
+        },
         "newsletter": {
           "type": "newsletter",
           "settings": {
@@ -71,38 +79,21 @@
             "button_background": "",
             "button_text_color": ""
           }
-        },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": ""
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
-          }
         }
       },
       "block_order": [
-        "newsletter",
-        "links",
-        "text"
+        "text",
+        "newsletter"
       ],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
-        "show_social_media": true,
+        "show_social_media": false,
         "show_payment_icons": true,
-        "show_country_selector": true,
+        "show_country_selector": false,
         "show_country_name": true,
         "show_country_flag": true,
-        "show_locale_selector": true
+        "show_locale_selector": false
       }
     }
   },
