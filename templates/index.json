@@ -226,7 +226,7 @@
             "subheading": "Collezione oro",
             "title": "orecchini 18k",
             "button_text": "Scoprili ora",
-            "button_link": "",
+            "button_link": "shopify://collections/collezione-orecchini-oro-18k",
             "button_style": "outline",
             "overlay_color": "#000000",
             "overlay_opacity": 6
@@ -243,7 +243,7 @@
             "subheading": "Collezione oro",
             "title": "Collana 18k",
             "button_text": "Scoprili ora",
-            "button_link": "",
+            "button_link": "shopify://collections/collezione-collana-oro-18k",
             "button_style": "outline",
             "overlay_color": "#000000",
             "overlay_opacity": 6
@@ -260,7 +260,7 @@
             "subheading": "collezione oro",
             "title": "Bracciale 18k",
             "button_text": "Scoprili ora",
-            "button_link": "",
+            "button_link": "shopify://collections/collezione-bracciale-oro-18k",
             "button_style": "outline",
             "overlay_color": "#000000",
             "overlay_opacity": 6
