@@ -12,6 +12,10 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "vendor_8yfCPQ": {
+          "type": "vendor",
+          "settings": {}
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -81,6 +85,7 @@
         }
       },
       "block_order": [
+        "vendor_8yfCPQ",
         "title",
         "price",
         "payment_terms",
@@ -114,7 +119,7 @@
           "type": "tab",
           "settings": {
             "title": "Specifiche tecniche",
-            "content": "",
+            "content": "<p>cccc</p>",
             "page": "",
             "open_on_mobile": false
           }
