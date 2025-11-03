@@ -11,6 +11,36 @@
   "type": "header",
   "name": "Header group",
   "sections": {
+    "announcement_bar_DDnVMe": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message_XyHbhr": {
+          "type": "message",
+          "settings": {
+            "text": "SPEDIZIONE GRATUITA 24/48H"
+          }
+        },
+        "message_eemgKF": {
+          "type": "message",
+          "settings": {
+            "text": "ULTIMI PEZZI RIMASTI"
+          }
+        }
+      },
+      "block_order": [
+        "message_XyHbhr",
+        "message_eemgKF"
+      ],
+      "name": "t:sections.announcement_bar.name",
+      "settings": {
+        "color_scheme": "scheme-544cc2c9-e92b-42d2-8307-22e6e5784954",
+        "enable_sticky": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "desktop_font_size": 11,
+        "mobile_font_size": 10
+      }
+    },
     "header": {
       "type": "header",
       "settings": {
@@ -38,29 +68,6 @@
         "show_country_flag": true,
         "show_locale_selector": false,
         "transparent_header_text_color": "#ffffff"
-      }
-    },
-    "announcement_bar_DDnVMe": {
-      "type": "announcement-bar",
-      "blocks": {
-        "message_XyHbhr": {
-          "type": "message",
-          "settings": {
-            "text": "Announce something here"
-          }
-        }
-      },
-      "block_order": [
-        "message_XyHbhr"
-      ],
-      "name": "t:sections.announcement_bar.name",
-      "settings": {
-        "color_scheme": "",
-        "enable_sticky": false,
-        "autoplay": true,
-        "cycle_speed": 5,
-        "desktop_font_size": 11,
-        "mobile_font_size": 10
       }
     }
   },
