@@ -360,15 +360,15 @@
         "question_FkRPyH": {
           "type": "question",
           "settings": {
-            "question": "I vostri gioielli sono in oro 18 carati?",
-            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "question": "I gioielli Imperia sono realizzati in metalli preziosi autentici?",
+            "answer": "<p>I nostri gioielli sono realizzati interamente in oro o argento.<br/>Ogni creazione è identificabile dalla bollatura ufficiale, obbligatoria per legge, che ne certifica il titolo e l’autenticità.</p>"
           }
         },
         "question_qYNN6W": {
           "type": "question",
           "settings": {
-            "question": "Sono realmente made in italy?",
-            "answer": "<p>Write a clear and concise answer to guide your customers.</p>"
+            "question": "I gioielli Imperia sono realmente Made in Italy?",
+            "answer": "<p>Sì. I nostri gioielli sono realizzati interamente in Italia, presso fabbriche partner situate in Toscana, specializzate nella produzione di gioielli in oro e argento.</p>"
           }
         },
         "question_zdDrdJ": {
