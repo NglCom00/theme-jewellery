@@ -181,20 +181,20 @@
         "subheading_cHytT6": {
           "type": "subheading",
           "settings": {
-            "text": "testo popup store"
+            "text": "<strong>Pop-Up Store Imperia</strong>"
           }
         },
         "heading_47nzFD": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "<strong>Collezione a Disponibilità Limitata</strong>",
             "heading_tag": "h1"
           }
         },
         "richtext_x3P3YU": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Questa è una selezione a scorte limitate di gioielli Imperia, realizzati interamente in Italia.<br/>Una produzione contenuta, scelta consapevolmente per garantire qualità, tempi certi e attenzione ai dettagli.<br/>Una volta esaurite le disponibilità, la collezione potrebbe non essere riassortita.<br/><br/></p>"
           }
         }
       },
