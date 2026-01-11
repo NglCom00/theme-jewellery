@@ -360,7 +360,7 @@
         "question_FkRPyH": {
           "type": "question",
           "settings": {
-            "question": "Con quali materiali sono prodotti i gioielli Imperia?",
+            "question": "Da quali materiali sono realizzati i gioielli Imperia?",
             "answer": "<p>I nostri gioielli sono realizzati interamente in oro o argento.<br/>Ogni creazione è identificabile dalla bollatura ufficiale, obbligatoria per legge, che ne certifica il titolo e l’autenticità.</p>"
           }
         },
@@ -381,21 +381,21 @@
         "question_VViGjd": {
           "type": "question",
           "settings": {
-            "question": "In quanto tempo riceverò l'ordine?",
+            "question": "Quali sono i tempi di consegna?",
             "answer": "<p>Imperia prepara e spedisce gli ordini entro 48–72 ore. I tempi di consegna successivi dipendono dal corriere e dalla destinazione; in media, l’ordine viene consegnato entro 4–5 giorni lavorativi dalla conferma.</p>"
           }
         },
         "question_epgKnX": {
           "type": "question",
           "settings": {
-            "question": "Se il prodotto non è di mio gradimento, posso fare il reso?",
+            "question": "Posso effettuare il reso di un prodotto?",
             "answer": "<p>I prodotti non personalizzati possono essere restituiti entro 14 giorni dalla consegna. In quanto piccola realtà indipendente, apprezziamo una valutazione attenta prima di richiedere il reso.<br/><br/></p>"
           }
         },
         "question_Haw36F": {
           "type": "question",
           "settings": {
-            "question": "Esiste un'assistenza con cui poter parlare?",
+            "question": "Come posso contattare l’assistenza?",
             "answer": "<p>Restiamo a disposizione per qualsiasi problematica legata all’ordine o per fornirti assistenza e consigli prima dell’acquisto. È possibile contattarci tramite il modulo presente nella sezione “Contatti”.</p>"
           }
         }
