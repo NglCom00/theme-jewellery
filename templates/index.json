@@ -375,7 +375,7 @@
           "type": "question",
           "settings": {
             "question": "La spedizione è gratuita?",
-            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "answer": "<p>La spedizione dal nostro sito è sempre gratuita.</p>"
           }
         },
         "question_VViGjd": {
