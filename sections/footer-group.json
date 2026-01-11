@@ -75,7 +75,7 @@
           "type": "newsletter",
           "settings": {
             "title": "Newsletter",
-            "content": "<p>Sign up to our newsletter to receive exclusive offers.</p>",
+            "content": "<p>Iscriviti alla nostra newsletter per restare aggiornato sulle nuove collezioni e sulla disponibilità dei nostri gioielli.<br/></p>",
             "button_background": "",
             "button_text_color": ""
           }

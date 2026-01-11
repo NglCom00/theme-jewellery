@@ -382,21 +382,21 @@
           "type": "question",
           "settings": {
             "question": "In quanto tempo riceverò l'ordine?",
-            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "answer": "<p>Imperia prepara e spedisce gli ordini entro 48–72 ore. I tempi di consegna successivi dipendono dal corriere e dalla destinazione; in media, l’ordine viene consegnato entro 4–5 giorni lavorativi dalla conferma.</p>"
           }
         },
         "question_epgKnX": {
           "type": "question",
           "settings": {
             "question": "Se il prodotto non è di mio gradimento, posso fare il reso?",
-            "answer": "<p>Write a clear and concise answer to guide your customers.</p>"
+            "answer": "<p>I prodotti non personalizzati possono essere restituiti entro 14 giorni dalla consegna. In quanto piccola realtà indipendente, apprezziamo una valutazione attenta prima di richiedere il reso.<br/><br/></p>"
           }
         },
         "question_Haw36F": {
           "type": "question",
           "settings": {
             "question": "Esiste un'assistenza con cui poter parlare?",
-            "answer": "<p>Write a clear and concise answer to guide your customers.</p>"
+            "answer": "<p>Restiamo a disposizione per supportarti in caso di problematiche con l’ordine e per offrirti assistenza o consigli prima dell’acquisto.</p>"
           }
         }
       },
