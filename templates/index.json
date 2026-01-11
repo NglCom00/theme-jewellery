@@ -396,7 +396,7 @@
           "type": "question",
           "settings": {
             "question": "Esiste un'assistenza con cui poter parlare?",
-            "answer": "<p>Restiamo a disposizione per supportarti in caso di problematiche con l’ordine e per offrirti assistenza o consigli prima dell’acquisto.</p>"
+            "answer": "<p>Restiamo a disposizione per qualsiasi problematica legata all’ordine o per fornirti assistenza e consigli prima dell’acquisto. È possibile contattarci tramite il modulo presente nella sezione “Contatti”.</p>"
           }
         }
       },
