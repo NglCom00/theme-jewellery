@@ -360,14 +360,14 @@
         "question_FkRPyH": {
           "type": "question",
           "settings": {
-            "question": "I gioielli Imperia sono realizzati in metalli preziosi autentici?",
+            "question": "Con quali materiali sono prodotti i gioielli Imperia?",
             "answer": "<p>I nostri gioielli sono realizzati interamente in oro o argento.<br/>Ogni creazione è identificabile dalla bollatura ufficiale, obbligatoria per legge, che ne certifica il titolo e l’autenticità.</p>"
           }
         },
         "question_qYNN6W": {
           "type": "question",
           "settings": {
-            "question": "I gioielli Imperia sono realmente Made in Italy?",
+            "question": "Dove vengono realizzati i gioielli Imperia?",
             "answer": "<p>Sì. I nostri gioielli sono realizzati interamente in Italia, presso fabbriche partner situate in Toscana, specializzate nella produzione di gioielli in oro e argento.</p>"
           }
         },
