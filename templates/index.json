@@ -388,7 +388,7 @@
         "question_epgKnX": {
           "type": "question",
           "settings": {
-            "question": "Posso effettuare il reso di un prodotto?",
+            "question": "Posso effettuare un reso?",
             "answer": "<p>I prodotti non personalizzati possono essere restituiti entro 14 giorni dalla consegna. In quanto piccola realtà indipendente, apprezziamo una valutazione attenta prima di richiedere il reso.<br/><br/></p>"
           }
         },
