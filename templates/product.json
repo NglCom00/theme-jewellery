@@ -87,7 +87,7 @@
         "liquid_6BwBBh": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"info-box\">\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/985/985696.png\" alt=\"Spedizione\" class=\"info-icon\">\n    <p><strong>Spedizione gratuita</strong> in 24/48h in tutta Italia</p>\n  </div>\n  <hr>\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/102/102649.png\" alt=\"Oro 18k\" class=\"info-icon\">\n    <p>Tutti i gioielli nel sito sono in <strong>oro 18 carati</strong> realizzati in <strong>Toscana</strong></p>\n  </div>\n  <hr>\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/3064/3064197.png\" alt=\"Pagamenti sicuri\" class=\"info-icon\">\n    <p><strong>Pagamenti sicuri</strong></p>\n  </div>\n  <hr>\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/8782/8782959.png\" alt=\"Reso gratuito\" class=\"info-icon\">\n    <p><strong>Reso gratuito entro 15 giorni.</strong><br>\n    <span class=\"note\">Attenzione:</span> non è possibile effettuare il reso per articoli personalizzati o modificati secondo indicazioni del cliente, poiché realizzati su misura.</p>\n  </div>\n</div>\n\n<style>\n.info-box {\n  border: 1px solid #000;\n  padding: 20px;\n  max-width: 500px;\n  margin: 0 auto;\n  background-color: #fff;\n  font-family: 'Montserrat', sans-serif;\n  font-size: 14px;\n  line-height: 1.6;\n  color: #111;\n}\n\n.info-item {\n  display: flex;\n  align-items: flex-start;\n  gap: 12px;\n}\n\n.info-icon {\n  width: 28px;\n  height: 28px;\n  flex-shrink: 0;\n  margin-top: 4px;\n  filter: brightness(0) saturate(100%); /* mantiene tutte le icone nere */\n}\n\n.info-box hr {\n  border: none;\n  border-top: 1px solid #000;\n  margin: 16px 0;\n}\n\n.note {\n  font-weight: 600;\n}\n\n@media (max-width: 768px) {\n  .info-box {\n    padding: 15px;\n  }\n  .info-item {\n    align-items: center;\n  }\n  .info-icon {\n    width: 24px;\n    height: 24px;\n  }\n  .info-box p {\n    font-size: 13px;\n  }\n}\n</style>"
+            "liquid": "<div class=\"info-box\">\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/985/985696.png\" alt=\"Spedizione\" class=\"info-icon\">\n    <p><strong>Spedizione gratuita</strong> in 48/72h in tutta Italia</p>\n  </div>\n  <hr>\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/102/102649.png\" alt=\"Oro 18k\" class=\"info-icon\">\n    <p>Tutti i gioielli nel sito sono in <strong>oro 18 carati</strong> realizzati in <strong>Toscana</strong></p>\n  </div>\n  <hr>\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/3064/3064197.png\" alt=\"Pagamenti sicuri\" class=\"info-icon\">\n    <p><strong>Pagamenti sicuri</strong></p>\n  </div>\n  <hr>\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/8782/8782959.png\" alt=\"Reso gratuito\" class=\"info-icon\">\n    <p><strong>Reso gratuito entro 15 giorni.</strong><br>\n    <span class=\"note\">Attenzione:</span> non è possibile effettuare il reso per articoli personalizzati o modificati secondo indicazioni del cliente, poiché realizzati su misura.</p>\n  </div>\n</div>\n\n<style>\n.info-box {\n  border: 1px solid #000;\n  padding: 20px;\n  max-width: 500px;\n  margin: 0 auto;\n  background-color: #fff;\n  font-family: 'Montserrat', sans-serif;\n  font-size: 14px;\n  line-height: 1.6;\n  color: #111;\n}\n\n.info-item {\n  display: flex;\n  align-items: flex-start;\n  gap: 12px;\n}\n\n.info-icon {\n  width: 28px;\n  height: 28px;\n  flex-shrink: 0;\n  margin-top: 4px;\n  filter: brightness(0) saturate(100%); /* mantiene tutte le icone nere */\n}\n\n.info-box hr {\n  border: none;\n  border-top: 1px solid #000;\n  margin: 16px 0;\n}\n\n.note {\n  font-weight: 600;\n}\n\n@media (max-width: 768px) {\n  .info-box {\n    padding: 15px;\n  }\n  .info-item {\n    align-items: center;\n  }\n  .info-icon {\n    width: 24px;\n    height: 24px;\n  }\n  .info-box p {\n    font-size: 13px;\n  }\n}\n</style>"
           }
         }
       },
@@ -127,7 +127,7 @@
           "type": "tab",
           "settings": {
             "title": "Spedizione e consegna",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<p>La spedizione dal nostro sito è sempre gratuita.<br/><br/>Imperia prepara e spedisce gli ordini entro 48–72 ore. I tempi di consegna successivi dipendono dal corriere e dalla destinazione; in media, l’ordine viene consegnato entro 4–5 giorni lavorativi dalla conferma.</p>",
             "page": "",
             "open_on_mobile": false
           }
@@ -136,7 +136,7 @@
           "type": "tab",
           "settings": {
             "title": "Reso",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "content": "<p>I prodotti non personalizzati possono essere restituiti entro 14 giorni dalla consegna. In quanto piccola realtà indipendente, apprezziamo una valutazione attenta prima di richiedere il reso.</p>",
             "page": "",
             "open_on_mobile": false
           }
@@ -158,21 +158,15 @@
     "multiple_media_with_text_WCxJGr": {
       "type": "multiple-media-with-text",
       "blocks": {
-        "image_K3PVn7": {
-          "type": "image",
-          "settings": {
-            "rotation": 0
-          }
-        },
         "image_NNFx8M": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Progetto_senza_titolo_-_2026-01-15T215953.125.png",
             "rotation": 0
           }
         }
       },
       "block_order": [
-        "image_K3PVn7",
         "image_NNFx8M"
       ],
       "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
@@ -187,9 +181,9 @@
         "media_alignment_offset": 0,
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
-        "subheading": "Sezione come ti arriva il prodotto",
-        "title": "Showcase your product",
-        "content": "<p>Write some content about your products, collections or brand. Use image or video to create an impactful layout.</p>",
+        "subheading": "",
+        "title": "Un’esperienza che inizia dal packaging",
+        "content": "<p>Ogni gioiello IMPERIA ti arriva all’interno della sua confezione originale, curata in ogni dettaglio. Dal packaging al gioiello, collaboriamo con partner locali e realtà artigianali italiane, scegliendo fornitori che condividono i nostri valori di qualità, attenzione e autenticità. Ogni elemento è pensato per offrirti un’esperienza esclusiva e valorizzare il lavoro dei negozi e delle imprese del territorio.</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
