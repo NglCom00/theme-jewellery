@@ -127,7 +127,7 @@
           "type": "tab",
           "settings": {
             "title": "Spedizione e consegna",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<p>La spedizione dal nostro sito è sempre gratuita.<br/><br/>Imperia prepara e spedisce gli ordini entro 48–72 ore. I tempi di consegna successivi dipendono dal corriere e dalla destinazione; in media, l’ordine viene consegnato entro 4–5 giorni lavorativi dalla conferma.</p>",
             "page": "",
             "open_on_mobile": false
           }
@@ -136,7 +136,7 @@
           "type": "tab",
           "settings": {
             "title": "Reso",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "content": "<p>I prodotti non personalizzati possono essere restituiti entro 14 giorni dalla consegna. In quanto piccola realtà indipendente, apprezziamo una valutazione attenta prima di richiedere il reso.</p>",
             "page": "",
             "open_on_mobile": false
           }
