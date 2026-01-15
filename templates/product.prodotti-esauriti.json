@@ -1,0 +1,297 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor_8yfCPQ": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "liquid_KnNdWq": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"features-widget\">\n  <div class=\"feature-item\">\n    <span class=\"check-icon\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#7d7d7d\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n        <circle cx=\"12\" cy=\"12\" r=\"10\" />\n        <path d=\"M8 12.5l2.5 2.5 5-5\" />\n      </svg>\n    </span>\n    <span class=\"feature-text\">Gioiello in <strong>Oro 18 Carati</strong></span>\n  </div>\n  <div class=\"feature-item\">\n    <span class=\"check-icon\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#7d7d7d\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n        <circle cx=\"12\" cy=\"12\" r=\"10\" />\n        <path d=\"M8 12.5l2.5 2.5 5-5\" />\n      </svg>\n    </span>\n    <span class=\"feature-text\">Realizzato interamente in Toscana – <strong>Made in Italy</strong></span>\n  </div>\n</div>\n\n<style>\n.features-widget {\n  font-family: 'Montserrat', sans-serif;\n  color: #000;\n  display: flex;\n  flex-direction: column;\n  gap: 14px;\n  max-width: 600px;\n  margin: 10px 0 20px;\n}\n\n.feature-item {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n}\n\n.check-icon {\n  width: 22px;\n  height: 22px;\n  flex-shrink: 0;\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.check-icon svg {\n  width: 22px;\n  height: 22px;\n}\n\n.feature-text {\n  font-size: 15px;\n  color: #000;\n  line-height: 1.5;\n}\n\n@media (max-width: 768px) {\n  .feature-text {\n    font-size: 14px;\n  }\n  .check-icon svg {\n    width: 20px;\n    height: 20px;\n  }\n}\n</style>"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "liquid_rE9aXd": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"stock-widget\">\n  <div class=\"stock-header\">Disponibilità</div>\n  <div class=\"stock-status\">Ne è rimasto solo 1 . Ordina presto!</div>\n\n  <div class=\"stock-bar\">\n    <div class=\"stock-bar__fill\"></div>\n  </div>\n</div>\n\n<style>\n/* --------- Configurazione rapida --------- */\n.stock-widget { --green:#A67A06; --bar-bg:#f0f0f0; --fill:5%; }\n/* ----------------------------------------- */\n\n.stock-widget{\n  max-width: 640px;\n  margin: 10px 0 20px;\n  font-family: inherit;\n}\n.stock-header{\n  font-size: 18px;\n  font-weight: 600;\n  color: #111;\n  margin-bottom: 6px;\n}\n.stock-status{\n  font-size: 16px;\n  font-weight: 500;\n  color: var(--green);\n  margin-bottom: 10px;\n}\n.stock-bar{\n  width: 100%;\n  height: 6px;                 /* sottile come nello screen */\n  background: var(--bar-bg);   /* grigio chiaro */\n  border-radius: 2px;\n  overflow: hidden;\n  position: relative;\n}\n.stock-bar__fill{\n  width: var(--fill);          /* ~5% fissa */\n  min-width: 22px;             /* garantisce un piccolo “blocco” visibile */\n  height: 100%;\n  background: var(--green);\n  border-radius: 2px;\n}\n@media (max-width: 768px){\n  .stock-header{ font-size:16px; }\n  .stock-status{ font-size:14px; }\n}\n</style>"
+          }
+        },
+        "liquid_ckLC78": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"live-view-widget\">\n  <span class=\"red-dot\"></span>\n  <span class=\"live-text\"><span id=\"viewers-count\">7</span> persone stanno guardando questo prodotto</span>\n</div>\n\n<style>\n  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');\n\n  .live-view-widget {\n    display: flex;\n    align-items: center;\n    gap: 6px;\n    font-family: 'Poppins', sans-serif;\n    font-weight: 500;\n    font-size: 11px;\n    color: #D30000;\n    margin-top: 6px;\n    margin-bottom: -10px;\n  }\n\n  .red-dot {\n    width: 8px;\n    height: 8px;\n    background-color: #D30000;\n    border-radius: 50%;\n  }\n\n  .live-text {\n    line-height: 1;\n  }\n</style>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function() {\n    const countEl = document.getElementById(\"viewers-count\");\n    function updateCount() {\n      const randomNum = Math.floor(Math.random() * 9) + 2; // da 2 a 10\n      countEl.textContent = randomNum;\n    }\n    setInterval(updateCount, 30000); // cambia ogni 30 secondi\n  });\n</script>"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": true,
+            "show_below_gallery": false
+          }
+        },
+        "liquid_6BwBBh": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"info-box\">\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/985/985696.png\" alt=\"Spedizione\" class=\"info-icon\">\n    <p><strong>Spedizione gratuita</strong> in 48/72h in tutta Italia</p>\n  </div>\n  <hr>\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/102/102649.png\" alt=\"Oro 18k\" class=\"info-icon\">\n    <p>Tutti i gioielli nel sito sono in <strong>oro 18 carati</strong> realizzati in <strong>Toscana</strong></p>\n  </div>\n  <hr>\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/3064/3064197.png\" alt=\"Pagamenti sicuri\" class=\"info-icon\">\n    <p><strong>Pagamenti sicuri</strong></p>\n  </div>\n  <hr>\n  <div class=\"info-item\">\n    <img src=\"https://cdn-icons-png.flaticon.com/512/8782/8782959.png\" alt=\"Reso gratuito\" class=\"info-icon\">\n    <p><strong>Reso gratuito entro 15 giorni.</strong><br>\n    <span class=\"note\">Attenzione:</span> non è possibile effettuare il reso per articoli personalizzati o modificati secondo indicazioni del cliente, poiché realizzati su misura.</p>\n  </div>\n</div>\n\n<style>\n.info-box {\n  border: 1px solid #000;\n  padding: 20px;\n  max-width: 500px;\n  margin: 0 auto;\n  background-color: #fff;\n  font-family: 'Montserrat', sans-serif;\n  font-size: 14px;\n  line-height: 1.6;\n  color: #111;\n}\n\n.info-item {\n  display: flex;\n  align-items: flex-start;\n  gap: 12px;\n}\n\n.info-icon {\n  width: 28px;\n  height: 28px;\n  flex-shrink: 0;\n  margin-top: 4px;\n  filter: brightness(0) saturate(100%); /* mantiene tutte le icone nere */\n}\n\n.info-box hr {\n  border: none;\n  border-top: 1px solid #000;\n  margin: 16px 0;\n}\n\n.note {\n  font-weight: 600;\n}\n\n@media (max-width: 768px) {\n  .info-box {\n    padding: 15px;\n  }\n  .info-item {\n    align-items: center;\n  }\n  .info-icon {\n    width: 24px;\n    height: 24px;\n  }\n  .info-box p {\n    font-size: 13px;\n  }\n}\n</style>"
+          }
+        }
+      },
+      "block_order": [
+        "vendor_8yfCPQ",
+        "title",
+        "price",
+        "payment_terms",
+        "variant_picker",
+        "liquid_KnNdWq",
+        "quantity_selector",
+        "liquid_rE9aXd",
+        "liquid_ckLC78",
+        "buy_buttons",
+        "description",
+        "liquid_6BwBBh"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "container_size": "lg",
+        "product_info_size": 35,
+        "show_sticky_add_to_cart": true,
+        "center_basic_info": false,
+        "desktop_media_layout": "grid",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3
+      }
+    },
+    "tabs_qmMPwV": {
+      "type": "tabs",
+      "blocks": {
+        "tab_D8EAzt": {
+          "type": "tab",
+          "settings": {
+            "title": "Spedizione e consegna",
+            "content": "<p>La spedizione dal nostro sito è sempre gratuita.<br/><br/>Imperia prepara e spedisce gli ordini entro 48–72 ore. I tempi di consegna successivi dipendono dal corriere e dalla destinazione; in media, l’ordine viene consegnato entro 4–5 giorni lavorativi dalla conferma.</p>",
+            "page": "",
+            "open_on_mobile": false
+          }
+        },
+        "tab_Hdfjk7": {
+          "type": "tab",
+          "settings": {
+            "title": "Reso",
+            "content": "<p>I prodotti non personalizzati possono essere restituiti entro 14 giorni dalla consegna. In quanto piccola realtà indipendente, apprezziamo una valutazione attenta prima di richiedere il reso.</p>",
+            "page": "",
+            "open_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "tab_D8EAzt",
+        "tab_Hdfjk7"
+      ],
+      "name": "t:sections.tabs.presets.tab.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center"
+      }
+    },
+    "multiple_media_with_text_WCxJGr": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_NNFx8M": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Progetto_senza_titolo_-_2026-01-15T215953.125.png",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_NNFx8M"
+      ],
+      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": false,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Un’esperienza che inizia dal packaging",
+        "content": "<p>Ogni gioiello IMPERIA ti arriva all’interno della sua confezione originale, curata in ogni dettaglio. Dal packaging al gioiello, collaboriamo con partner locali e realtà artigianali italiane, scegliendo fornitori che condividono i nostri valori di qualità, attenzione e autenticità. Ogni elemento è pensato per offrirti un’esperienza esclusiva e valorizzare il lavoro dei negozi e delle imprese del territorio.</p>",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
+    "collection_list_Hg8KYm": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_gKGQ8W": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "collezione-collana-oro-18k",
+            "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-11-03T130846.521.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "Collezione oro",
+            "title": "Collana 18k",
+            "button_text": "Scoprili ora",
+            "button_link": "shopify://collections/collezione-collana-oro-18k",
+            "button_style": "outline",
+            "overlay_color": "#000000",
+            "overlay_opacity": 6
+          }
+        },
+        "collection_A94eke": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "collezione-orecchini-oro-18k",
+            "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-11-03T130456.432.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "Collezione Oro",
+            "title": "Orecchini 18k",
+            "button_text": "scoprili ora",
+            "button_link": "shopify://collections/collezione-orecchini-oro-18k",
+            "button_style": "outline",
+            "overlay_color": "#000000",
+            "overlay_opacity": 6
+          }
+        },
+        "collection_AUXhGX": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "collezione-bracciale-oro-18k",
+            "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-11-03T132910.073.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "Collezione oro",
+            "title": "Bracciale 18k",
+            "button_text": "scoprili ora",
+            "button_link": "shopify://collections/collezione-bracciale-oro-18k",
+            "button_style": "outline",
+            "overlay_color": "#000000",
+            "overlay_opacity": 6
+          }
+        }
+      },
+      "block_order": [
+        "collection_gKGQ8W",
+        "collection_A94eke",
+        "collection_AUXhGX"
+      ],
+      "name": "t:sections.collection_list.presets.collection_list.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "image_size": "auto",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": true,
+        "collections_per_row_desktop": 3,
+        "stack_collections_mobile": false,
+        "collections_per_row_mobile": "1",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "related_products_DpAmJQ": {
+      "type": "related-products",
+      "name": "t:sections.related_products.presets.related_products.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": false,
+        "recommendations_count": 10,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Potrebbero interessarti",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "tabs_qmMPwV",
+    "multiple_media_with_text_WCxJGr",
+    "collection_list_Hg8KYm",
+    "related_products_DpAmJQ"
+  ]
+}
