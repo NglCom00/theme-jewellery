@@ -71,6 +71,14 @@
             "enable_follow_on_shop": false
           }
         },
+        "links_NTdVVx": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": "LEGALE"
+          }
+        },
         "newsletter": {
           "type": "newsletter",
           "settings": {
@@ -83,6 +91,7 @@
       },
       "block_order": [
         "text",
+        "links_NTdVVx",
         "newsletter"
       ],
       "settings": {
