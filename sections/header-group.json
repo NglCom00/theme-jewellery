@@ -14,10 +14,16 @@
     "announcement_bar_DDnVMe": {
       "type": "announcement-bar",
       "blocks": {
+        "message_FbkcJ6": {
+          "type": "message",
+          "settings": {
+            "text": "NUOVI GIOIELLI SEMPRE IN ARRIVO"
+          }
+        },
         "message_XyHbhr": {
           "type": "message",
           "settings": {
-            "text": "SPEDIZIONE GRATUITA 24/48H"
+            "text": "SPEDIZIONE GRATUITA EXPRESS"
           }
         },
         "message_eemgKF": {
@@ -28,6 +34,7 @@
         }
       },
       "block_order": [
+        "message_FbkcJ6",
         "message_XyHbhr",
         "message_eemgKF"
       ],
