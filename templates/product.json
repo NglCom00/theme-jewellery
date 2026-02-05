@@ -77,6 +77,20 @@
             "payment_button_text_color": ""
           }
         },
+        "paylio_elegant_payment_icons_payment_icons_RrjmjD": {
+          "type": "shopify://apps/paylio-elegant-payment-icons/blocks/payment_icons/b75f5bf3-146a-486e-a3e0-3c2d22b567b8",
+          "settings": {
+            "style_selection": "default",
+            "position_selection": "center",
+            "black_white": false,
+            "size": 20,
+            "display_in_row": true,
+            "margin-topbottom": 0,
+            "space-between-icons": 6,
+            "have-max-width": false,
+            "max-width": 44
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -102,6 +116,7 @@
         "liquid_rE9aXd",
         "liquid_ckLC78",
         "buy_buttons",
+        "paylio_elegant_payment_icons_payment_icons_RrjmjD",
         "description",
         "liquid_6BwBBh"
       ],
