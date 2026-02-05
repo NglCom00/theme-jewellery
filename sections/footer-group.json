@@ -68,7 +68,7 @@
           "settings": {
             "title": "<strong>CHI SIAMO</strong>",
             "content": "<p>Imperia è un brand italiano nato da un’idea semplice e concreta: offrire gioielli di qualità Made in Italy a un prezzo equilibrato, svincolato dalle logiche del branding tradizionale.<br/>La filiera Imperia si fonda su collaborazioni con fabbriche italiane, in particolare situate in Toscana, specializzate nella lavorazione dell’oro e dell’argento. Realtà produttive con competenze consolidate, selezionate per affidabilità, controllo dei materiali e cura esecutiva.</p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         },
         "newsletter": {
