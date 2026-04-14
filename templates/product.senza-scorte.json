@@ -42,6 +42,16 @@
             "size_chart_page": ""
           }
         },
+        "textly_product_custom_fields_app_block_yLhd4b": {
+          "type": "shopify://apps/textly-product-custom-fields/blocks/app_block/be85361a-4b91-4076-ba54-73344853be66",
+          "settings": {}
+        },
+        "text_E9AWBM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Leggi la descrizione su come personalizzare il tuo bracciale ❤️</p>"
+          }
+        },
         "liquid_KnNdWq": {
           "type": "liquid",
           "settings": {
@@ -111,6 +121,8 @@
         "price",
         "payment_terms",
         "variant_picker",
+        "textly_product_custom_fields_app_block_yLhd4b",
+        "text_E9AWBM",
         "liquid_KnNdWq",
         "quantity_selector",
         "liquid_rE9aXd",
