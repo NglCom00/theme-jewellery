@@ -34,6 +34,7 @@
         },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "selector_style": "dropdown",
@@ -44,10 +45,12 @@
         },
         "textly_product_custom_fields_app_block_yLhd4b": {
           "type": "shopify://apps/textly-product-custom-fields/blocks/app_block/be85361a-4b91-4076-ba54-73344853be66",
+          "disabled": true,
           "settings": {}
         },
         "text_E9AWBM": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Leggi la descrizione su come personalizzare il tuo bracciale ❤️</p>"
           }
