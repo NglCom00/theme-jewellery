@@ -42,20 +42,10 @@
             "size_chart_page": ""
           }
         },
-        "textly_product_custom_fields_app_block_yLhd4b": {
-          "type": "shopify://apps/textly-custom-fields/blocks/app_block/be85361a-4b91-4076-ba54-73344853be66",
-          "settings": {}
-        },
-        "text_E9AWBM": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Leggi la descrizione su come personalizzare il tuo bracciale ❤️</p>"
-          }
-        },
         "liquid_KnNdWq": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"features-widget\">\n  <div class=\"feature-item\">\n    <span class=\"check-icon\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#7d7d7d\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n        <circle cx=\"12\" cy=\"12\" r=\"10\" />\n        <path d=\"M8 12.5l2.5 2.5 5-5\" />\n      </svg>\n    </span>\n    <span class=\"feature-text\">Gioiello in <strong>Argento 925</strong></span>\n  </div>\n  <div class=\"feature-item\">\n    <span class=\"check-icon\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#7d7d7d\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n        <circle cx=\"12\" cy=\"12\" r=\"10\" />\n        <path d=\"M8 12.5l2.5 2.5 5-5\" />\n      </svg>\n    </span>\n    <span class=\"feature-text\">Realizzato interamente in Toscana – <strong>Made in Italy</strong></span>\n  </div>\n</div>\n\n<style>\n.features-widget {\n  font-family: 'Montserrat', sans-serif;\n  color: #000;\n  display: flex;\n  flex-direction: column;\n  gap: 14px;\n  max-width: 600px;\n  margin: 10px 0 20px;\n}\n\n.feature-item {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n}\n\n.check-icon {\n  width: 22px;\n  height: 22px;\n  flex-shrink: 0;\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.check-icon svg {\n  width: 22px;\n  height: 22px;\n}\n\n.feature-text {\n  font-size: 15px;\n  color: #000;\n  line-height: 1.5;\n}\n\n@media (max-width: 768px) {\n  .feature-text {\n    font-size: 14px;\n  }\n  .check-icon svg {\n    width: 20px;\n    height: 20px;\n  }\n}\n</style>"
+            "liquid": "<div class=\"features-widget\">\n  <div class=\"feature-item\">\n    <span class=\"check-icon\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#7d7d7d\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n        <circle cx=\"12\" cy=\"12\" r=\"10\" />\n        <path d=\"M8 12.5l2.5 2.5 5-5\" />\n      </svg>\n    </span>\n    <span class=\"feature-text\">Gioiello in <strong>Argento 925</strong> o <strong>Oro 9ct</strong></span>\n  </div>\n  <div class=\"feature-item\">\n    <span class=\"check-icon\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#7d7d7d\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n        <circle cx=\"12\" cy=\"12\" r=\"10\" />\n        <path d=\"M8 12.5l2.5 2.5 5-5\" />\n      </svg>\n    </span>\n    <span class=\"feature-text\">Realizzato interamente in Toscana – <strong>Made in Italy</strong></span>\n  </div>\n</div>\n\n<style>\n.features-widget {\n  font-family: 'Montserrat', sans-serif;\n  color: #000;\n  display: flex;\n  flex-direction: column;\n  gap: 14px;\n  max-width: 600px;\n  margin: 10px 0 20px;\n}\n\n.feature-item {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n}\n\n.check-icon {\n  width: 22px;\n  height: 22px;\n  flex-shrink: 0;\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.check-icon svg {\n  width: 22px;\n  height: 22px;\n}\n\n.feature-text {\n  font-size: 15px;\n  color: #000;\n  line-height: 1.5;\n}\n\n@media (max-width: 768px) {\n  .feature-text {\n    font-size: 14px;\n  }\n  .check-icon svg {\n    width: 20px;\n    height: 20px;\n  }\n}\n</style>"
           }
         },
         "quantity_selector": {
@@ -121,8 +111,6 @@
         "price",
         "payment_terms",
         "variant_picker",
-        "textly_product_custom_fields_app_block_yLhd4b",
-        "text_E9AWBM",
         "liquid_KnNdWq",
         "quantity_selector",
         "liquid_rE9aXd",
